@@ -7,3 +7,4 @@
 2. Initiating working directory using `git init`{{execute}}
 3. Create some file example app.py using this command `vi app.py`{{execute}}
 4. Test aja ya
+5. Masak gak berubah si
