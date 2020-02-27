@@ -1,12 +1,12 @@
 {
   "title": "Work with Git",
-  "description": "Scenario for learning git",
+  "description": "Let's enjoy my course to understand how git work",
   "difficulty": "Beginner",
   "time": "30 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Introduction",
         "text": "step1.md"
       },
       {
