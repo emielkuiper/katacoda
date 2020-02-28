@@ -1,0 +1,1 @@
+In this course we will learn about Jenkins Installation and Concept of Pipeline (Declarative Pipeline). So let's enjoy with this course.
