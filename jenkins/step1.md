@@ -8,6 +8,7 @@ Command:
 `{{execute}}
 After you run the command you can visit vi dashboard tab and change port to 9090.
 
-You need password? let's check it `docker exec -it jenkins cat /var/jenkins_home/secrets/initialAdminPassword`{{execute}}
+You need password? let's check it `docker exec -it jenkins cat /var/jenkins_home/secrets
+/initialAdminPassword`{{execute}}
 
 For jenkins installation you just select recomendation plugins. After that skip the password setup and others.
